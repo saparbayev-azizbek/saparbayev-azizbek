@@ -12,7 +12,7 @@
  
  🔭 I’m currently studing at **university**
  
- 🌱 I’m currently learning **English, Python, Django**
+ 🌱 I’m currently learning **English, Python and Django**
 
 
  </div>
