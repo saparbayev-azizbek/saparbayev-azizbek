@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">A passionate web developer from Uzbekistan 🇺🇿</h3>
-
 <br/>
 
 <div align="center">
